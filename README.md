@@ -16,7 +16,8 @@
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=lucafluri&show_icons=true">
 
 ### I am Bruno Justo
 - An ML & Open Source enthusiast.

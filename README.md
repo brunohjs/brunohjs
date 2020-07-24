@@ -17,7 +17,7 @@
 </a>
 <br />
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lucafluri&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunohjs&show_icons=true">
 
 ### I am Bruno Justo
 - An ML & Open Source enthusiast.

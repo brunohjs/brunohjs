@@ -1,4 +1,5 @@
 ## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+Sou desenvolvedor Python e NodeJS, formado em Engenharia de Computação na Universidade Federal do Rio Grande. Para mais informações, consulte meus canais de comunicação:
 
 <a href="https://www.linkedin.com/in/brunohjs/">
   <img align="left" alt="Bruno's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,16 +18,28 @@
 </a>
 <br />
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunohjs&show_icons=true">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=brunohjs&show_icons=true">
 
-### I am Bruno Justo
-- An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+### Conhecimento
+#### Front-end
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> **Javascript** Avançado
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> **JQuery** Avançado
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> **HTML** Avançado
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> **CSS** Avançado
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> **Bootstrap** Intermediário
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React** Iniciante
 
-#### Languages and Tools
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+#### Back-end
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> **Python** Avançado
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> **NodeJS** Avançado
+- <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"> **DJango** Intermediário
+
+#### Banco de dados
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> **MongoDB** Avançado
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> **PostgreSQL** Avançado
+
+#### Outros
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"> **Heroku** Avançado
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> **Git** Intermediário
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg"> **MochaJS** Intermediário
+- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"> **AWS** Iniciante

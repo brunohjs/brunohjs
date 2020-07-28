@@ -18,9 +18,9 @@ Sou desenvolvedor Python e NodeJS, formado em Engenharia de Computação na Univ
 </a>
 <br />
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=brunohjs&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunohjs&show_icons=true">
 
-### Conhecimento
+### Conhecimentos
 #### Front-end
 - <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> **Javascript** Avançado
 - <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> **JQuery** Avançado

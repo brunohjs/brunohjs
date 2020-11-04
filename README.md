@@ -1,5 +1,5 @@
 ## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-Sou desenvolvedor Python e NodeJS, formado em Engenharia de Computação na Universidade Federal do Rio Grande. Para mais informações, consulte meus canais de comunicação:
+Sou desenvolvedor Python e NodeJS, formado em Engenharia de Computação na Universidade Federal do Rio Grande (FURG). Para mais informações, consulte meus canais de comunicação:
 
 <a href="https://www.linkedin.com/in/brunohjs/">
   <img align="left" alt="Bruno's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

@@ -19,27 +19,3 @@ Sou desenvolvedor Python e NodeJS, formado em Engenharia de Computação na Univ
 <br />
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=brunohjs&show_icons=true">
-
-### Conhecimentos
-#### Front-end
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> **Javascript** Avançado
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> **JQuery** Avançado
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> **HTML** Avançado
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> **CSS** Avançado
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> **Bootstrap** Intermediário
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React** Iniciante
-
-#### Back-end
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> **Python** Avançado
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> **NodeJS** Avançado
-- <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"> **DJango** Intermediário
-
-#### Banco de dados
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> **MongoDB** Avançado
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> **PostgreSQL** Avançado
-
-#### Outros
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"> **Heroku** Avançado
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> **Git** Intermediário
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg"> **MochaJS** Intermediário
-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"> **AWS** Iniciante
